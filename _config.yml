@@ -7,7 +7,7 @@ url: "https://gram-krux.com"
 # Build settings
 theme: hitchens-theme
 remote_theme: hitchens-theme
-ignore_theme_config: true
+ignore_theme_config: false
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
