@@ -1,7 +1,24 @@
+title: Gram Krux
+email: gram@die-krux.de
+description: Home of the Krux
+baseurl: "" 
+url: "https://gram-krux.com" 
+
+# Build settings
+theme: hitchens-theme
+ignore_theme_config: true
+plugins:
+  - jekyll-feed
+  - jekyll-paginate-v2
+
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/page/:num/'
+
 lsi: false
 safe: true
-source: /
-theme: minima
+
 incremental: false
 highlighter: rouge
 gist:
@@ -9,3 +26,15 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
