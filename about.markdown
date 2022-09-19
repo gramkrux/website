@@ -1,18 +1,12 @@
 ---
-layout: page
+layout: post
 title: About
-permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<h2>Gram Krux</h2>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Gram Krux is a virtual person. You may ask yourself what the meaning of _Krux_ is. The only meaningful and not too stupid explanatin that could be found is this.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<h3>Declension of noun Krux with plural and article</h3>
 
-
-[jekyll-organization]: https://github.com/jekyll
+<em>The declension of the noun Krux is in singular genitive Krux and in the plural nominative -. The noun Krux is declined with the declension endings -/-. It does not form plurals. The voice of Krux is feminine and the article "die". Here you can not only inflect Krux but also all German nouns. The noun is part of the thesaurus of Zertifikat Deutsch respectivly Level C2.</em>
